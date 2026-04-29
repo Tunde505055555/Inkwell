@@ -202,9 +202,6 @@ You need **two wallet accounts** because `judge_round()` requires at least 2 sub
 
 ---
 
-## 📜 License
-
-MIT — do whatever you want, just don't blame us if the AI picks a weird winner.
 
 ---
 

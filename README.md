@@ -1,4 +1,4 @@
-# Inkwell — AI Storytelling Battle on GenLayer
+# Inkwell — AI Storytelling Game on GenLayer
 
 Inkwell is a fully on-chain **AI Storytelling Battle** built on top of [GenLayer](https://genlayer.com) "Intelligent Contracts." Players submit short stories for a shared prompt, and an LLM running **inside** the smart contract — judged by GenLayer validator consensus — picks the winner. Wins accumulate on a transparent, on-chain scoreboard.
 
